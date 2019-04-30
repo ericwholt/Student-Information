@@ -1,0 +1,7 @@
+C:\Users\fatmo\Grand Circus\Labs\8\Student-Information\Student-Information\obj\Debug\Student-Information.csprojAssemblyReference.cache
+C:\Users\fatmo\Grand Circus\Labs\8\Student-Information\Student-Information\obj\Debug\Student-Information.csproj.CoreCompileInputs.cache
+C:\Users\fatmo\Grand Circus\Labs\8\Student-Information\Student-Information\bin\Debug\Student-Information.exe.config
+C:\Users\fatmo\Grand Circus\Labs\8\Student-Information\Student-Information\bin\Debug\Student-Information.exe
+C:\Users\fatmo\Grand Circus\Labs\8\Student-Information\Student-Information\bin\Debug\Student-Information.pdb
+C:\Users\fatmo\Grand Circus\Labs\8\Student-Information\Student-Information\obj\Debug\Student-Information.exe
+C:\Users\fatmo\Grand Circus\Labs\8\Student-Information\Student-Information\obj\Debug\Student-Information.pdb
