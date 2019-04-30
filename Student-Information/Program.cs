@@ -129,6 +129,10 @@ namespace Student_Information
                             validAnswer = true;
                             validInput = true;
                         }
+                        else
+                        {
+                            Console.WriteLine(studentHomeTown);
+                        }
                     }
                 }
                 else if (userInput.ToLower() == "favorite food")
@@ -147,6 +151,10 @@ namespace Student_Information
                         {
                             validAnswer = true;
                             validInput = true;
+                        }
+                        else
+                        {
+                            Console.WriteLine(studentFood);
                         }
                     }
                 }
